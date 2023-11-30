@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1052827159625",
+    "firebase_url": "https://test-rtdb-6d774-default-rtdb.firebaseio.com",
+    "project_id": "test-rtdb-6d774",
+    "storage_bucket": "test-rtdb-6d774.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052827159625:android:d58a05c5213ab48ce2c398",
+        "android_client_info": {
+          "package_name": "com.example.testrtdb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSkOvWdUnXx_htVKbQ-ttiOnPZ3wQFTAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
